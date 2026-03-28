@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ojas Tripathi 👋
 
-<!--
-**someoneojas77-droid/someoneojas77-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) | 1st Year | VIT Bhopal University
 
-Here are some ideas to get you started:
+📧 ojas.25bai10208@vitbhopal.ac.in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a first-year Computer Science student specialising in Artificial 
+Intelligence and Machine Learning at VIT Bhopal University. I am 
+currently learning the fundamentals of programming, digital tools, 
+and AI concepts.
+
+## What I Hope to Learn
+I hope to build strong foundations in machine learning, data science, 
+and software development — and eventually contribute to real-world 
+AI projects.
+
+## My Profiles
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ojas-tripathi-90a632315?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+
+## Skills (Learning)
+- Python (beginner)
+- Digital Literacy
+- Google Workspace
+
+---
+*1st Year · CSE AI & ML · VIT Bhopal · 2024-25*
