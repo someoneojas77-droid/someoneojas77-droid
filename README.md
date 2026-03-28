@@ -25,4 +25,4 @@ AI projects.
 - Google Workspace
 
 ---
-*1st Year · CSE AI & ML · VIT Bhopal · 2024-25*
+*1st Year · CSE AI & ML · VIT Bhopal · 2025-26*
